@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "306357870345",
+    "project_id": "traffica-667f6",
+    "storage_bucket": "traffica-667f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306357870345:android:4705b88648ffaf6d9f7dd8",
+        "android_client_info": {
+          "package_name": "com.traffica.mobility"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAlHJlvCAqQkcW7hX-fPM52d6N95XB6Co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

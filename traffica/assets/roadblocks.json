@@ -1,0 +1,90 @@
+[
+  {
+    "id": "rb_001",
+    "title": "MG Road Construction",
+    "description": "Major road construction work on MG Road between Brigade Road and Residency Road. Expect delays of 15-20 minutes.",
+    "latitude": 12.9758,
+    "longitude": 77.6066,
+    "type": "construction",
+    "severity": "high",
+    "reportedAt": "2024-01-15T08:00:00.000Z",
+    "isActive": true
+  },
+  {
+    "id": "rb_002",
+    "title": "Accident on Outer Ring Road",
+    "description": "Vehicle accident blocking one lane on ORR near Marathahalli. Traffic being diverted.",
+    "latitude": 12.9569,
+    "longitude": 77.7011,
+    "type": "accident",
+    "severity": "critical",
+    "reportedAt": "2024-01-15T09:30:00.000Z",
+    "isActive": true
+  },
+  {
+    "id": "rb_003",
+    "title": "Road Work on Jayanagar 4th Block",
+    "description": "Utility work causing lane closures on 4th Block Main Road.",
+    "latitude": 12.9308,
+    "longitude": 77.5796,
+    "type": "roadwork",
+    "severity": "medium",
+    "reportedAt": "2024-01-14T14:00:00.000Z",
+    "isActive": true
+  },
+  {
+    "id": "rb_004",
+    "title": "Flooding on Old Airport Road",
+    "description": "Heavy rainfall has caused water logging and reduced visibility on Old Airport Road near Murgeshpalya.",
+    "latitude": 12.9591,
+    "longitude": 77.6543,
+    "type": "flooding",
+    "severity": "high",
+    "reportedAt": "2024-01-15T07:15:00.000Z",
+    "isActive": true
+  },
+  {
+    "id": "rb_005",
+    "title": "Metro Construction - Indiranagar",
+    "description": "Bengaluru Metro construction work causing traffic diversions in Indiranagar area.",
+    "latitude": 12.9784,
+    "longitude": 77.6408,
+    "type": "construction",
+    "severity": "medium",
+    "reportedAt": "2024-01-10T06:00:00.000Z",
+    "isActive": true
+  },
+  {
+    "id": "rb_006",
+    "title": "Bridge Maintenance - Hebbal",
+    "description": "Bridge maintenance work on Hebbal Flyover. Alternate routes recommended.",
+    "latitude": 13.0358,
+    "longitude": 77.5917,
+    "type": "construction",
+    "severity": "high",
+    "reportedAt": "2024-01-12T10:00:00.000Z",
+    "isActive": true
+  },
+  {
+    "id": "rb_007",
+    "title": "Road Resurfacing - Koramangala",
+    "description": "Road resurfacing work on 80 Feet Road, Koramangala. Single lane operation.",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "type": "roadwork",
+    "severity": "medium",
+    "reportedAt": "2024-01-13T08:30:00.000Z",
+    "isActive": true
+  },
+  {
+    "id": "rb_008",
+    "title": "Parking Violation - Commercial Street",
+    "description": "Illegally parked vehicles blocking traffic flow on Commercial Street.",
+    "latitude": 12.9822,
+    "longitude": 77.6081,
+    "type": "other",
+    "severity": "low",
+    "reportedAt": "2024-01-15T11:45:00.000Z",
+    "isActive": true
+  }
+]
