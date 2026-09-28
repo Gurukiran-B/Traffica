@@ -139,8 +139,6 @@ Traffica is built on Flutter and designed to be cross-platform:
 - Advanced driver gamification and rewards system.
 
 ## 🎥 Demo
-
-[▶️ Watch the Traffica Demo on YouTube](https://youtu.be/qVU_xn_gpIk)
-
+[▶️ Watch the Traffica Demo on YouTube](https://youtu.be/qVU_xn_gplk)
 ---
 *Designed & Developed for Modern Logistics.*
