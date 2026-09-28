@@ -140,7 +140,7 @@ Traffica is built on Flutter and designed to be cross-platform:
 
 ## 🎥 Demo
 
-[▶️ Watch the Traffica Demo on YouTube](https://youtu.be/qVU_xn_gplk)
+[▶️ Watch the Traffica Demo on YouTube](https://youtu.be/qVU_xn_gpIk)
 
 ---
 *Designed & Developed for Modern Logistics.*
